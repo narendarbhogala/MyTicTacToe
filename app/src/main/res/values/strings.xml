@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyTicTacToe</string>
+    <string name="hint">Touch on any box to start the game</string>
+    <string name="start_game">Start Game</string>
+</resources>
